@@ -51,7 +51,7 @@ body{
     height: 50px;
     display: flex;
     justify-content: space-between;
-    position: fixed;
+    
 }
 .menu-ul {
     margin: 0;
