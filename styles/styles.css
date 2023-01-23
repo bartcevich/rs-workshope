@@ -786,7 +786,7 @@ li>a:not(.active):hover {
         height: 64px;
     }
 }
-@media screen and (max-width: 768px){
+@media screen and (max-width: 767px){
 /* @media (max-width: 767px) and (min-width: 380px) { */
     .header {
         width: 380px;
